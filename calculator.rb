@@ -9,3 +9,7 @@ sum = first_number + second_number
 difference = first_number - second_number
 
 # Product of the Variables
+product = first_number * second_number
+
+# Dividing of the Variables
+quotient = first_number / second_number
