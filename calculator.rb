@@ -5,3 +5,4 @@ second_number = 3
 # Sum of the Variables
 sum = first_number + second_number
 
+# Difference of the Variables
