@@ -6,3 +6,4 @@ second_number = 3
 sum = first_number + second_number
 
 # Difference of the Variables
+difference = first_number - 
